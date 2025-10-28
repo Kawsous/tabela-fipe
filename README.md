@@ -24,3 +24,6 @@ Este projeto Java realiza consultas à API pública da Tabela FIPE (https://para
 - `models`: Contém as classes que representam os dados da API (`Dados`, `Modelos`, `Veiculos`)
 - `services`: Contém as classes responsáveis por consumir a API (`CreateURI`) e converter os dados JSON (`ConverteDados`)
 - `view`: Interface de interação com o usuário via terminal (`View`)
+
+  <img width="1772" height="613" alt="image" src="https://github.com/user-attachments/assets/76c90f8f-a96b-4ab3-8a3c-f98bf56b5084" />
+
